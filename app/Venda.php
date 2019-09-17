@@ -9,6 +9,7 @@ class Venda extends Model
     protected $fillable = [
         'comprador',
         'descricao',
+        'status',
     ];
 
     public function produtos() {
