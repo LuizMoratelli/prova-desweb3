@@ -71,16 +71,16 @@ Retorna todas as informações de um produto associado a venda.
 Envia as informações para associar novos produtos em uma venda.
 ```json
 {
-	"produtos": [
-		{
+    "produtos": [
+        {
             "id": 1,
             "quantidade": 3
         },
         {
             "id": 2,
             "quantidade": 5
-		}
-	]
+        }
+    ]
 }
 ```
 
